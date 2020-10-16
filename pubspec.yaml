@@ -1,0 +1,30 @@
+name: toonify
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  image_picker: ^0.6.7+11
+  modal_progress_hud: ^0.1.3
+  dio: ^3.0.10
+  after_init: ^0.1.2
+  share: ^0.6.5+2
+  image: ^2.1.18
+  image_gallery_saver: ^1.6.0
+  permission_handler: ^5.0.1+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
